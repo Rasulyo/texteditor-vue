@@ -1,5 +1,9 @@
 # my-tiptap-project
 
+```
+https://texteditor-vue.vercel.app/
+```
+
 ## Project setup
 ```
 npm install
